@@ -9,7 +9,15 @@ This is a movie trailer website which contains set of favorite movies and their 
 Run and install the python version
 
 ## Contribution guidelines
-The project uses the version of Python 3.6.2
+The project uses the version of Python 3.6.2.The project contain 3 python files- media, Movie trailer, Fresh tomatoes.
+Media is the base file where class Movie is created and it contains two function. One for initialization of Instances and the other if for displaying the trailer by opening the webbrowser.
+Movie trailer is the file which is need to be run to view the home page of the project. Python standard lobrary "media" is impoerted. The other file imported is fresh tomatoes. The home page contains 9 movies whicha re arranged 3 per row and 3 per column. Instances are created for each movie. a movie list is a collection of all these instances which are then passed inside a function called "open movies page from freshtomatoes file.
+
+## Running the tests
+The user can run the Movie trailer file to view the list of movie and its trailer by using python 3.6.2 version.
+
+
+
 
 
 

@@ -9,10 +9,11 @@ This is a movie trailer website which contains set of favorite movies and their 
 3.Run and install the python version
 
 ## Contribution guidelines
-1.The project uses the version of **Python 3.6.2**.The project contain 3 python files- `media, Movie trailer, Fresh tomatoes.`
-2.**Media** is the base file where class *Movie* is created and it contains two function. One for initialization of Instances and the other is for displaying the trailer by opening the webbrowser.
-3.**Movie trailer** is the file which is need to be run to view the home page of the project. Python standard library "media" is imported. The other file imported is fresh tomatoes. The home page contains **9 movies** which are arranged 3 per row and 3 per column. *Instances are created for each movie*. A movie list is  created, a collection of all these instances which are then passed inside a function called **open_movies_page** from freshtomatoes file.
-4.Freshtomatoes contains the HTML,CSS code which is used to allign and add up style to the web page.
+1.The project uses the version of **Python 3.6.2**.The project contain 3 python files- `media, Movie trailer, Fresh tomatoes.<br>
+
+2.**Media** is the base file where class *Movie* is created and it contains two function. One for initialization of Instances and the other is for displaying the trailer by opening the webbrowser.<br>
+3.**Movie trailer** is the file which is need to be run to view the home page of the project. Python standard library "media" is imported. The other file imported is fresh tomatoes. The home page contains **9 movies** which are arranged 3 per row and 3 per column. *Instances are created for each movie*. A movie list is  created, a collection of all these instances which are then passed inside a function called **open_movies_page** from freshtomatoes file.<br>
+4.Freshtomatoes contains the HTML,CSS code which is used to allign and add up style to the web page.<br>
 
 ## Running the tests
 The user can run the **Movie trailer** file to view the list of movie and its trailer by using **python 3.6.2** version.
